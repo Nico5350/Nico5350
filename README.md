@@ -28,6 +28,15 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <br>
+
+<br>   
+    
+- **Data base Development**:
+
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
+
 <br>
 
 - **Softwares and Tools**:
